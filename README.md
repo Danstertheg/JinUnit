@@ -2,7 +2,7 @@
 
 **JinUnit** is a command-line tool that uses OpenAI's GPT models to automatically generate high-quality JUnit test classes from Java source code.
 
-> Built by [Danny Silvestre Suarez](https://github.com/dsylvester2022)
+> Built by [Danny Silvestre Suarez](https://github.com/Danstertheg)
 
 ---
 
@@ -17,7 +17,7 @@ pip install jinunit
 ### 🔹 Option 2: From GitHub (Latest Dev Version)
 
 ```bash
-pip install git+https://github.com/dsylvester2022/jinunit.git
+pip install git+https://github.com/Danstertheg/JinUnit.git
 ```
 
 ---
@@ -139,7 +139,7 @@ Pull requests are welcome!
 To contribute:
 
 ```bash
-git clone https://github.com/dsylvester2022/jinunit.git
+git clone https://github.com/Danstertheg/JinUnit.git
 cd jinunit
 pip install -e .
 ```
